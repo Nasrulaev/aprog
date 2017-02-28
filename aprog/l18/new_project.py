@@ -1,14 +1,3 @@
-# from PIL import Image
-
-# im = Image.open("koala.jpg")
-# im.rotate(angle, filter = NEAREST, expand = 0)
-# im.show()
-
-
-# from PIL import Image
-# im = Image.open('koala.jpg')
-# im.resize((600,1100)).show()
-
 import random
 from PIL import Image, ImageDraw
 
